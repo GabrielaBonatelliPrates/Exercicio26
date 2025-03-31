@@ -1,5 +1,5 @@
 
-package com.mycompany.exercicio26;
+
 
 import javax.swing.JOptionPane;
 
@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
  *
  * @author rafae
  */
-public class Exercicio26 {
+public class Principal {
 
     public static void main(String[] args) {
   int qtde = 20;
